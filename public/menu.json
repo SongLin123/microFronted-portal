@@ -1,0 +1,14 @@
+{
+    "menu": [{
+            "appPath": "/childApp/testing",
+            "name": "测试微应用",
+            "appName": "testing",
+            "icon": "el-icon-menu"
+        },
+        { 
+            "appPath": "//localhost:8081",
+            "name": "微应用2",
+            "appName": "foo-app",
+            "icon": "el-icon-menu" }
+    ]
+}
